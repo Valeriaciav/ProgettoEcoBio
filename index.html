@@ -1,0 +1,482 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Presto.it</title>
+
+    <!-- swiper cdn -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
+
+    <!-- icona finestra -->
+    <link rel="shortcut icon" href="./media/icona1.png" type="image-x-icon">
+
+    <!-- google fonts cdn -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&display=swap" rel="stylesheet">
+
+    <!-- cdn aos -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!-- icone fantawesome cdn -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- css bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  
+    <!-- css custom -->
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+  <body>
+    <!-- inizio navbar -->
+    <nav class="navbar navbar-expand-lg bg-transparent fixed-top" id="nBar">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">
+             <!-- logo1 -->
+            <img class="logo1" src="./media/icona2.png" alt="logo">
+            <!-- logo2 -->
+            <img class="logo2 d-none" src="./media/icona3.png" alt="logo">
+
+          </a>
+          <button class="navbar-toggler background-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="fa-sharp fa-solid fa-hand-pointer fa-rotate-180 fa-2x hand" id="navIcon"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="./annunci.html">Prodotti</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Chi siamo?</a>
+              </li>
+            </ul>
+            <form class="d-flex" role="search">
+              <input class="form-control me-2" type="search" placeholder="Prodotti" aria-label="Search">
+              <button class="btn-custom btn-outline-success" type="submit">Cerca</button>
+            </form>
+          </div>
+        </div>
+    </nav>
+      <!-- fine navbar -->
+
+      <!-- inizio header -->
+      <header class="container-fluid header-custom">
+            <div class="row vh-100 header-custom">
+               <div class="col-12 d-flex justify-content-center align-items-center">
+
+                   <h1 data-aos="fade-left" data-aos-duration="2000"> <span class=" titleC text-secondaryC display-1 fw-bold" >EcoBio</span> <span class="text-accent">.it</span></h1>
+
+               </div>
+            </div>
+       </header>
+
+       <!-- <div style="height: 1000px;"></div> altezza data per vedere l'animazione allo scroll -->
+
+       <!-- inizio sezione AOS -->
+       <section class="container-fluid py-5" id="animate">
+           <div class="row my-5">
+
+              <div class="col-12 col-md-6 d-flex justify-content-center ">
+                <img class="imgS img-fluid" data-aos="fade-right" data-aos-duration="2000" src="./media/mondosostenibile.png" alt="imm mondo">
+
+              </div>
+
+              <div class="col-12 col-md-6 d-flex-column justify-content-center align-items-center">
+
+                  <h2 id="h2C" class="text-center"> Un pò di numeri </h2>
+                  <p class="lead text-center pt-5"><span id="first-span" class="increment-numbers d-block">0</span> Clienti soddisfatti </p>
+                  <p class="lead text-center"><span id="second-span"class="increment-numbers d-block">0</span> Prodotti venduti </p>
+                  <p class="lead text-center"><span id="third-span" class="increment-numbers d-block">0</span> Recensioni </p>
+
+
+              </div>
+           </div>
+       </section>
+
+      <!-- inizio sezione swiper -->
+        <!-- <section class="container">
+            <div class="row">
+                <div class="col-12 col-md-8"> -->
+                    
+                    <!-- Slider main container -->
+                     <!-- <div class="swiper"> -->
+                    
+                        <!-- Additional required wrapper -->
+                        <!-- <div class="swiper-wrapper"> -->
+                  
+                            <!-- Slides -->
+                            <!-- <div class="swiper-slide">
+                               <img class="image-swiper" src="./media/prodotti_viso.jpg" alt="">
+                                
+                            </div>
+                            <div class="swiper-slide">
+                                <img class="image-swiper" src="./media/prodotti_corpo.jpg" alt="immagine corpo">
+
+                            </div>
+                            <div class="swiper-slide">
+                                <img class="image-swiper" src="./media/prodotti_capelli_bio.jpg" alt="immagine capelli">
+                            </div>
+                             
+                        </div> -->
+  
+                        <!-- If we need pagination -->
+  
+                        <!-- <div class="swiper-pagination"></div> -->
+
+  
+                        <!-- If we need navigation buttons -->
+ 
+                        <!-- <div class="swiper-button-prev"></div>
+ 
+                        <div class="swiper-button-next"></div> -->
+
+  
+                        <!-- If we need scrollbar -->
+  
+                        <!-- <div class="swiper-scrollbar"></div>
+
+                    </div>
+
+                </div>
+           
+            </div>
+        </section> -->
+
+
+        <!-- inizio seconda sezione swiper -->
+        <section class="container" id="aboutus">
+            <div class="row my-5 py-5 justify-content-center">
+                <div class="col-12 col-md-10">
+                    <h2 class="text-center"> Recensioni</h2>
+                    
+                    <!-- Slider main container -->
+                     <div class="swiper">
+                    
+                        <!-- Additional required wrapper -->
+                        <div class="swiper-wrapper">
+                  
+                            <!-- Slides -->
+                            <!-- <div class="swiper-slide d-flex justify-content-center align-items-center"> -->
+
+                                <!-- <div class="card-custom">
+                                    <h3>nome</h3>
+                                    <p class="text-center p-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem officia pariatur vel eos unde recusandae sed accusantium itaque laboriosam libero nihil officiis soluta tempora alias a eveniet ratione, ipsa enim?</p>
+
+                                </div>
+                                 
+                            </div>
+
+                            <div class="swiper-slide d-flex justify-content-center align-items-center">
+
+                                <div class="card-custom">
+                                    <h3>nome</h3>
+                                    <p class="text-center p-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem officia pariatur vel eos unde recusandae sed accusantium itaque laboriosam libero nihil officiis soluta tempora alias a eveniet ratione, ipsa enim?</p>
+                                    
+                                </div>
+                    
+                            </div>
+
+                            <div class="swiper-slide d-flex justify-content-center align-items-center">
+
+                                <div class="card-custom">
+                                    <h3>nome</h3>
+                                    <p class="text-center p-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem officia pariatur vel eos unde recusandae sed accusantium itaque laboriosam libero nihil officiis soluta tempora alias a eveniet ratione, ipsa enim?</p>
+                                    
+                                </div> -->
+                                
+                            <!-- </div> -->
+                             
+                        </div>
+  
+                        <!-- If we need pagination -->
+  
+                        <div class="swiper-pagination"></div>
+
+  
+                        <!-- If we need navigation buttons -->
+ 
+                        <div class="swiper-button-prev"></div>
+ 
+                        <div class="swiper-button-next"></div>
+
+                    </div>
+
+                </div>
+           
+            </div>
+        </section>
+
+
+        <!-- INIZIO MOUSE ENTER -->
+        <section class="container-fluid background-primary my-5 py-5" id="mouseEnter">
+            <div class="container">
+                <div class="row justify-content-evenly">
+
+                    <div class="col-12 col-md-3 col-custom m-3">
+
+                        <i class="fa-sharp fa-solid fa-truck-fast fa-3x text-secondaryC"></i>
+                        <h3>Lorem ipsum</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+
+                    </div>
+
+                    <div class="col-12 col-md-3 col-custom m-3">
+
+                        <i class="fa-sharp fa-solid fa-truck-fast fa-3x text-secondaryC"></i>
+                        <h3>Lorem ipsum</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+
+                    </div>
+
+                    <div class="col-12 col-md-3 col-custom m-3">
+
+                        <i class="fa-sharp fa-solid fa-truck-fast fa-3x text-secondaryC"></i>
+                        <h3>Lorem ipsum</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- INIZIO FOOTER -->
+        <footer class="container-fluid mt-5 py-5 background-secondary text-accent">
+
+            <div class="containercd">
+                <div class="row">
+                    <div class="col-12 col-md-4 text-center my-5">
+
+                        <h2 class="pb-4">About EcoBio</h2>
+                        <p>P.IVA: 987654321</p>
+                        <P>Indirizzo: Via degli Innocenti</P>
+                        <p>Tel: +39 3409876543</p>
+                        <p>e-mail: mymail@gymail.com</p>
+                        
+                        <div>
+                            <i class="fa-brands fa-facebook p-2"></i>
+                            <i class="fa-brands fa-instagram p-2"></i>
+                            <i class="fa-brands fa-twitter p-2"></i>
+                        </div>
+
+                    </div>
+
+                    <div class="col-12 col-md-4 text-center my-5">
+
+                        <h2 class="pb-4">Quick menu</h2>
+                        <a href="#animate" class="footer-link"><p> Un pò di numeri</p></a>
+                        <a href="#aboutus" class="footer-link"><p> Recensioni </p></a>
+                        <a href="#mouseEnter" class="footer-link"><p> Spedizioni</p></a>
+                        
+                    </div>
+
+                    <div class="col-12 col-md-4 text-center my-5">
+
+                        <h2 class="pb-4">Collaborazioni</h2>
+                        <p> Aulab </p>
+                        <p> Amazon </p></a>
+                        <p> Bartolini </p></a>
+                        
+                    </div>
+                    
+
+
+                </div>
+            </div>
+
+
+        </footer>
+       
+
+       
+
+      
+      
+    
+
+
+    
+       
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      
+ <!-- js boostrap -->
+    <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+ 
+ <!-- js swiper -->
+ <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
+ <!-- cdn js aos -->
+ <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+ <!-- inizializzo aos -->
+    <script>
+        AOS.init();
+    </script>
+
+<!-- js interno -->
+    <script>
+
+        // recensioni
+
+        let reviews = [
+
+        {name: 'Paolo', quote: 'Prodotti fantastici', vote: '4'},
+        {name: 'Serena', quote: 'Spedizioni rapide', vote: '5'},
+        {name: 'Federica', quote: 'I miei capelli sono rinati', vote: '4'},
+        ];
+
+        // catturo lo swiper wrapper
+        let swiperWrapper = document.querySelector('.swiper-wrapper');
+
+        // per ogni elemento dell'array di oggetti rewiews..
+        reviews.forEach( (recensione)=>{
+            let div = document.createElement('div');
+
+            div.classList.add('swiper-slide' , 'd-flex' , 'justify-content-center' , 'align-items-center');
+            
+            div.innerHTML = ` <div class="card-custom">
+                                    <h3>${recensione.name}</h3>
+                                    <p class="text-center p-2">${recensione.quote}</p>
+
+                                    <div class="d-flex">
+                                        ${createStar(recensione.vote)}
+                                    </div>
+                                    
+                                    
+                                </div>
+                                
+                            `;
+            swiperWrapper.appendChild(div);
+        });
+
+        // funzione crea stelline di Hokuto
+
+        function createStar(fullStars){
+
+            let final = '';
+
+            for(let i= 1; i <=5; i++){
+
+                if(fullStars > i){
+
+                    final += `<i class="fa-solid fa-star"></i>`;
+
+                }else{
+
+                    final += `<i class="fa-regular fa-star"></i>`;
+                }
+            }
+
+            return final;
+        };
+        
+        
+
+
+
+    // inizializzazione swiper
+        const SWIPER = new Swiper('.swiper', { 
+            // Optional parameters
+            // direction: 'vertical',
+            loop: true,
+
+            // effects
+            effect:"coverflow",
+            grabCursor: true,
+            centeredSlides: true,
+            slidesPerView: 1,
+            coverflowEffect: {
+               rotate: 50,
+               stretch: 0,
+               depth: 100,
+               modifier: 1,
+               slideShadows: false,
+            },
+  
+            // If we need pagination
+            pagination: {
+            el: '.swiper-pagination',
+            },
+  
+            // Navigation arrows
+            // navigation: {
+            //    nextEl: '.swiper-button-next',
+            //    prevEl: '.swiper-button-prev',
+            // },
+
+             // breakpoints
+             breakpoints: {
+                  640: {
+                    slidesPerView: 2,
+                    // spaceBetween: 20,
+                   },
+            },
+
+            // autoplay
+            autoplay: {
+               delay: 1000,
+               disableOnInteraction: false,
+            },
+  
+            // And if we need scrollbar
+            // scrollbar: {
+            //    el: '.swiper-scrollbar',
+            // },
+        });
+    
+    </script>
+ <!--  -->
+ <!-- js esterno custom -->
+    <script defer src="./main.js"></script>
+  
+
+
+
+</body>
+</html>

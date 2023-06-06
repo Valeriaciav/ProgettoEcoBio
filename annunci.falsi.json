@@ -1,0 +1,601 @@
+[{
+    "id": 1,
+    "name": "Gentamicin Sulfate",
+    "categor": "Gentamicin Sulfate",
+    "price": 100,
+    "img": "http://dummyimage.com/159x100.png/cc0000/ffffff"
+  }, {
+    "id": 2,
+    "name": "MERCURIUS VIVUS",
+    "categor": "MERCURIUS VIVUS",
+    "price": 80,
+    "img": "http://dummyimage.com/119x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 3,
+    "name": "nicotine polacrilex",
+    "categor": "NICOTINE",
+    "price": 82,
+    "img": "http://dummyimage.com/211x100.png/cc0000/ffffff"
+  }, {
+    "id": 4,
+    "name": "cetylpyridinium chloride",
+    "categor": "Antiseptic",
+    "price": 49,
+    "img": "http://dummyimage.com/134x100.png/cc0000/ffffff"
+  }, {
+    "id": 5,
+    "name": "Nicotine Polacrilex",
+    "categor": "stop smoking aid",
+    "price": 77,
+    "img": "http://dummyimage.com/206x100.png/ff4444/ffffff"
+  }, {
+    "id": 6,
+    "name": "Tolnaftate",
+    "categor": "ProClearz",
+    "price": 90,
+    "img": "http://dummyimage.com/124x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 7,
+    "name": "Mexiletine Hydrochloride",
+    "categor": "Mexiletine Hydrochloride",
+    "price": 43,
+    "img": "http://dummyimage.com/222x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 8,
+    "name": "Triclosan",
+    "categor": "Lemon Zest Antibacterial Foaming Hand Wash",
+    "price": 46,
+    "img": "http://dummyimage.com/125x100.png/cc0000/ffffff"
+  }, {
+    "id": 9,
+    "name": "Chloroxylenol",
+    "categor": "Premium Foam Antibacterial",
+    "price": 74,
+    "img": "http://dummyimage.com/141x100.png/cc0000/ffffff"
+  }, {
+    "id": 10,
+    "name": "EZ-OX Plus",
+    "categor": "EZ-OX Plus",
+    "price": 94,
+    "img": "http://dummyimage.com/194x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 11,
+    "name": "CARBON DIOXIDE",
+    "categor": "CARBON DIOXIDE",
+    "price": 37,
+    "img": "http://dummyimage.com/106x100.png/dddddd/000000"
+  }, {
+    "id": 12,
+    "name": "Acetaminophen, Chlorpheniramine maleate, Phenylephrine HCl",
+    "categor": "good neighbor pharmacy sinus",
+    "price": 14,
+    "img": "http://dummyimage.com/242x100.png/ff4444/ffffff"
+  }, {
+    "id": 13,
+    "name": "not applicable",
+    "categor": "Stomach Spleen Meridian Formula",
+    "price": 73,
+    "img": "http://dummyimage.com/229x100.png/dddddd/000000"
+  }, {
+    "id": 14,
+    "name": "Magnesium Salicylate",
+    "categor": "Backache Relief",
+    "price": 43,
+    "img": "http://dummyimage.com/120x100.png/dddddd/000000"
+  }, {
+    "id": 15,
+    "name": "Sertraline",
+    "categor": "Sertraline",
+    "price": 7,
+    "img": "http://dummyimage.com/240x100.png/cc0000/ffffff"
+  }, {
+    "id": 16,
+    "name": "Ciprofloxacin",
+    "categor": "Ciprofloxacin",
+    "price": 48,
+    "img": "http://dummyimage.com/237x100.png/cc0000/ffffff"
+  }, {
+    "id": 17,
+    "name": "Air",
+    "categor": "Air",
+    "price": 49,
+    "img": "http://dummyimage.com/209x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 18,
+    "name": "MIDAZOLAM HYDROCHLORIDE",
+    "categor": "MIDAZOLAM",
+    "price": 81,
+    "img": "http://dummyimage.com/234x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 19,
+    "name": "Sodium monofluorophosphate",
+    "categor": "Charm Tex",
+    "price": 23,
+    "img": "http://dummyimage.com/168x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 20,
+    "name": "Levonorgestrel and Ethinyl Estradiol",
+    "categor": "Sronyx",
+    "price": 60,
+    "img": "http://dummyimage.com/193x100.png/ff4444/ffffff"
+  }, {
+    "id": 21,
+    "name": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+    "categor": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+    "price": 67,
+    "img": "http://dummyimage.com/122x100.png/dddddd/000000"
+  }, {
+    "id": 22,
+    "name": "ATAZANAVIR SULFATE",
+    "categor": "REYATAZ",
+    "price": 88,
+    "img": "http://dummyimage.com/226x100.png/ff4444/ffffff"
+  }, {
+    "id": 23,
+    "name": "matricaria recutita, arabica coffee bean, tribasic calcium phosphate",
+    "categor": "Humphreys Baby Teething Relief Cherry Swift Strips",
+    "price": 15,
+    "img": "http://dummyimage.com/152x100.png/ff4444/ffffff"
+  }, {
+    "id": 24,
+    "name": "OCTISALATE, OCTINOXATE, and OXYBENZONE",
+    "categor": "OBAGI-C RX SYSTEM C-EXFOLIATING DAY",
+    "price": 86,
+    "img": "http://dummyimage.com/126x100.png/ff4444/ffffff"
+  }, {
+    "id": 25,
+    "name": "Benzocaine",
+    "categor": "HurriCaine",
+    "price": 87,
+    "img": "http://dummyimage.com/110x100.png/dddddd/000000"
+  }, {
+    "id": 26,
+    "name": "Octinoxate Oxybenzone",
+    "categor": "Bite Beauty SPF 15 Sheer Balm",
+    "price": 24,
+    "img": "http://dummyimage.com/159x100.png/dddddd/000000"
+  }, {
+    "id": 27,
+    "name": "Buprenorphine and Naloxone",
+    "categor": "Buprenorphine HCl and Naloxone HCl",
+    "price": 88,
+    "img": "http://dummyimage.com/245x100.png/dddddd/000000"
+  }, {
+    "id": 28,
+    "name": "Indomethacin",
+    "categor": "Indomethacin",
+    "price": 35,
+    "img": "http://dummyimage.com/240x100.png/dddddd/000000"
+  }, {
+    "id": 29,
+    "name": "Telmisartan",
+    "categor": "Telmisartan",
+    "price": 10,
+    "img": "http://dummyimage.com/168x100.png/dddddd/000000"
+  }, {
+    "id": 30,
+    "name": "HYDROMORPHONE HYDROCHLORIDE",
+    "categor": "HYDROMORPHONE HYDROCHLORIDE",
+    "price": 8,
+    "img": "http://dummyimage.com/140x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 31,
+    "name": "Cough Relief",
+    "categor": "Lung-Resp",
+    "price": 61,
+    "img": "http://dummyimage.com/224x100.png/cc0000/ffffff"
+  }, {
+    "id": 32,
+    "name": "Ibuprofen and Pseudoephedrine Hydrochloride",
+    "categor": "Ibuprofen and Pseudoephedrine Hydrochloride",
+    "price": 95,
+    "img": "http://dummyimage.com/157x100.png/cc0000/ffffff"
+  }, {
+    "id": 33,
+    "name": "Dimethicone",
+    "categor": "Coolbottoms",
+    "price": 46,
+    "img": "http://dummyimage.com/168x100.png/ff4444/ffffff"
+  }, {
+    "id": 34,
+    "name": "Valsartan and Hydrochlorothiazide",
+    "categor": "Valsartan and Hydrochlorothiazide",
+    "price": 47,
+    "img": "http://dummyimage.com/149x100.png/ff4444/ffffff"
+  }, {
+    "id": 35,
+    "name": "Levetiracetam",
+    "categor": "Levetiracetam",
+    "price": 29,
+    "img": "http://dummyimage.com/107x100.png/ff4444/ffffff"
+  }, {
+    "id": 36,
+    "name": "Nitrogen",
+    "categor": "Nitrogen",
+    "price": 22,
+    "img": "http://dummyimage.com/197x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 37,
+    "name": "acyclovir",
+    "categor": "acyclovir",
+    "price": 58,
+    "img": "http://dummyimage.com/142x100.png/ff4444/ffffff"
+  }, {
+    "id": 38,
+    "name": "Minocycline Hydrochloride",
+    "categor": "Minocycline Hydrochloride",
+    "price": 27,
+    "img": "http://dummyimage.com/140x100.png/ff4444/ffffff"
+  }, {
+    "id": 39,
+    "name": "Aluminum hydroxide, Magnesium hydroxide, Simethicone",
+    "categor": "Leader Antacid",
+    "price": 67,
+    "img": "http://dummyimage.com/234x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 40,
+    "name": "BENZALKONIUM CHLORIDE AND PRAMOXINE HYDROCHLORIDE",
+    "categor": "Neosporin Plus Pain Relief Neo To Go First Aid Antiseptic Pain Relieving",
+    "price": 2,
+    "img": "http://dummyimage.com/135x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 41,
+    "name": "PHENYLEPHRINE HYDROCHLORIDE",
+    "categor": "Phenylephrine Hydrochloride",
+    "price": 4,
+    "img": "http://dummyimage.com/240x100.png/cc0000/ffffff"
+  }, {
+    "id": 42,
+    "name": "menthol, methyl salicylate",
+    "categor": "Cold Spot",
+    "price": 48,
+    "img": "http://dummyimage.com/182x100.png/cc0000/ffffff"
+  }, {
+    "id": 43,
+    "name": "Famotidine, Calcium Carbonate, Magnesium Hydroxide",
+    "categor": "care one acid reducer and antacid",
+    "price": 22,
+    "img": "http://dummyimage.com/190x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 44,
+    "name": "Rabbit Epithelium",
+    "categor": "Rabbit Epithelium",
+    "price": 47,
+    "img": "http://dummyimage.com/238x100.png/ff4444/ffffff"
+  }, {
+    "id": 45,
+    "name": "Mineral oil",
+    "categor": "Mineral oil",
+    "price": 46,
+    "img": "http://dummyimage.com/241x100.png/cc0000/ffffff"
+  }, {
+    "id": 46,
+    "name": "Iodium, Pituitarium posterium, Thyroidinum, Glandula suprarenalis suis, Fel tauri, Taraxacum officinale, Bryonia, Carbo vegetabilis, Colocynthis, Indolum, Lycopodium clavatum, Mercurius corrosivus, Nux vomica, Phosphorus, Pulsatilla,",
+    "categor": "Ileocecal Valve Support",
+    "price": 58,
+    "img": "http://dummyimage.com/115x100.png/ff4444/ffffff"
+  }, {
+    "id": 47,
+    "name": "BENZALKONIUM CHLORIDE",
+    "categor": "Disney Princess Antibacterial Hand Wipes",
+    "price": 64,
+    "img": "http://dummyimage.com/190x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 48,
+    "name": "Quercus Borago Adult Size",
+    "categor": "Quercus Borago Adult Size",
+    "price": 62,
+    "img": "http://dummyimage.com/217x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 49,
+    "name": "Zafirlukast",
+    "categor": "ZAFIRLUKAST",
+    "price": 56,
+    "img": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+  }, {
+    "id": 50,
+    "name": "Hydrogen Peroxide",
+    "categor": "Hydrogen Peroxide",
+    "price": 55,
+    "img": "http://dummyimage.com/153x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 51,
+    "name": "Acetaminophen, Chlorpehniramine HCl, Dextromethorphan HBr, Phenylephrine HCl",
+    "categor": "Multi-Symptom Cold Relief",
+    "price": 63,
+    "img": "http://dummyimage.com/226x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 52,
+    "name": "Benzalkonium Chloride",
+    "categor": "Holiday Treats Antibacterial Foaming Hand Wash",
+    "price": 69,
+    "img": "http://dummyimage.com/122x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 53,
+    "name": "calcipotriene and betamethasone dipropionate",
+    "categor": "TACLONEX",
+    "price": 67,
+    "img": "http://dummyimage.com/177x100.png/cc0000/ffffff"
+  }, {
+    "id": 54,
+    "name": "bupropion hydrochloride",
+    "categor": "BUPROPION HYDROCHLORIDE",
+    "price": 13,
+    "img": "http://dummyimage.com/121x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 55,
+    "name": "Diazepam",
+    "categor": "Diazepam",
+    "price": 63,
+    "img": "http://dummyimage.com/247x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 56,
+    "name": "Octinoxate Titanium Dioxide",
+    "categor": "Match Perfection SPF 18",
+    "price": 16,
+    "img": "http://dummyimage.com/114x100.png/dddddd/000000"
+  }, {
+    "id": 57,
+    "name": "Dextrose and Sodium Chloride",
+    "categor": "Dextrose and Sodium Chloride",
+    "price": 9,
+    "img": "http://dummyimage.com/168x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 58,
+    "name": "FENOFIBRATE",
+    "categor": "FENOFIBRATE",
+    "price": 70,
+    "img": "http://dummyimage.com/231x100.png/ff4444/ffffff"
+  }, {
+    "id": 59,
+    "name": "ETHYL ALCOHOL",
+    "categor": "Instant Hand Sanitizer Blue Raspberry",
+    "price": 62,
+    "img": "http://dummyimage.com/189x100.png/dddddd/000000"
+  }, {
+    "id": 60,
+    "name": "Levetiracetam",
+    "categor": "Levetiracetam",
+    "price": 59,
+    "img": "http://dummyimage.com/131x100.png/cc0000/ffffff"
+  }, {
+    "id": 61,
+    "name": "Sulfamethoxazole and Trimethoprim",
+    "categor": "Sulfamethoxazole and Trimethoprim",
+    "price": 41,
+    "img": "http://dummyimage.com/102x100.png/cc0000/ffffff"
+  }, {
+    "id": 62,
+    "name": "Triclosan",
+    "categor": "Lucky Antibacterial Hand Soap",
+    "price": 6,
+    "img": "http://dummyimage.com/218x100.png/ff4444/ffffff"
+  }, {
+    "id": 63,
+    "name": "Olanzapine",
+    "categor": "Zyprexa",
+    "price": 34,
+    "img": "http://dummyimage.com/117x100.png/ff4444/ffffff"
+  }, {
+    "id": 64,
+    "name": "Avobenzone, Ecamsule and Octocrylene",
+    "categor": "La Roche Posay Laboratoire Dermatologique Anthelios SX Daily Moisturizing Sunscreen Broad Spectrum SPF 15",
+    "price": 85,
+    "img": "http://dummyimage.com/148x100.png/dddddd/000000"
+  }, {
+    "id": 65,
+    "name": "Ibuprofen",
+    "categor": "rx act ibuprofen",
+    "price": 25,
+    "img": "http://dummyimage.com/164x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 66,
+    "name": "glimepiride",
+    "categor": "glimepiride",
+    "price": 84,
+    "img": "http://dummyimage.com/220x100.png/ff4444/ffffff"
+  }, {
+    "id": 67,
+    "name": "Danazol",
+    "categor": "Danazol",
+    "price": 6,
+    "img": "http://dummyimage.com/117x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 68,
+    "name": "Lithium Carbonate",
+    "categor": "Lithium Carbonate",
+    "price": 43,
+    "img": "http://dummyimage.com/133x100.png/ff4444/ffffff"
+  }, {
+    "id": 69,
+    "name": "fluocinolone acetonide",
+    "categor": "Synalar",
+    "price": 35,
+    "img": "http://dummyimage.com/166x100.png/cc0000/ffffff"
+  }, {
+    "id": 70,
+    "name": "Oxycodone and Acetaminophen",
+    "categor": "Oxycodone and Acetaminophen",
+    "price": 73,
+    "img": "http://dummyimage.com/244x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 71,
+    "name": "diazepam",
+    "categor": "Diazepam",
+    "price": 34,
+    "img": "http://dummyimage.com/232x100.png/dddddd/000000"
+  }, {
+    "id": 72,
+    "name": "Tolnaftate",
+    "categor": "SoundBody Tolnaftate Antifungal",
+    "price": 44,
+    "img": "http://dummyimage.com/212x100.png/ff4444/ffffff"
+  }, {
+    "id": 73,
+    "name": "Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl",
+    "categor": "Up and Up Mucus Relief",
+    "price": 97,
+    "img": "http://dummyimage.com/230x100.png/dddddd/000000"
+  }, {
+    "id": 74,
+    "name": "valacyclovir hydrochloride",
+    "categor": "VALTREX",
+    "price": 8,
+    "img": "http://dummyimage.com/250x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 75,
+    "name": "bicalutamide",
+    "categor": "bicalutamide",
+    "price": 1,
+    "img": "http://dummyimage.com/158x100.png/dddddd/000000"
+  }, {
+    "id": 76,
+    "name": "Abrotanum, Boldo, Chelidonium Majus, Cimicifuga Racemosa, Convallaria Majalis, Kali Phosphoricum, Taraxacum Officinale",
+    "categor": "Cardiofroce",
+    "price": 30,
+    "img": "http://dummyimage.com/184x100.png/dddddd/000000"
+  }, {
+    "id": 77,
+    "name": "Neostigmine Methylsulfate",
+    "categor": "Bloxiverz",
+    "price": 54,
+    "img": "http://dummyimage.com/248x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 78,
+    "name": "Allopurinol",
+    "categor": "Allopurinol",
+    "price": 1,
+    "img": "http://dummyimage.com/137x100.png/cc0000/ffffff"
+  }, {
+    "id": 79,
+    "name": "estradiol",
+    "categor": "Estradiol",
+    "price": 75,
+    "img": "http://dummyimage.com/126x100.png/cc0000/ffffff"
+  }, {
+    "id": 80,
+    "name": "lisinopril",
+    "categor": "lisinopril",
+    "price": 98,
+    "img": "http://dummyimage.com/201x100.png/cc0000/ffffff"
+  }, {
+    "id": 81,
+    "name": "Apatite Cucurbita",
+    "categor": "Apatite Cucurbita",
+    "price": 91,
+    "img": "http://dummyimage.com/202x100.png/cc0000/ffffff"
+  }, {
+    "id": 82,
+    "name": "Nadolol",
+    "categor": "Nadolol",
+    "price": 58,
+    "img": "http://dummyimage.com/104x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 83,
+    "name": "Capsicum",
+    "categor": "HYSAN DEGUO POROUS CAPSICUM",
+    "price": 19,
+    "img": "http://dummyimage.com/177x100.png/dddddd/000000"
+  }, {
+    "id": 84,
+    "name": "Oxygen",
+    "categor": "Oxygen",
+    "price": 64,
+    "img": "http://dummyimage.com/127x100.png/ff4444/ffffff"
+  }, {
+    "id": 85,
+    "name": "Pyrithione Zinc",
+    "categor": "Dial For Men Dandruff Control Hair and Body Wash",
+    "price": 98,
+    "img": "http://dummyimage.com/221x100.png/ff4444/ffffff"
+  }, {
+    "id": 86,
+    "name": "Avobenzone, Homosalate, Octocrylene",
+    "categor": "perfect truth cc eye broad spectrum SPF 15",
+    "price": 33,
+    "img": "http://dummyimage.com/199x100.png/dddddd/000000"
+  }, {
+    "id": 87,
+    "name": "HYDROCORTISONE ACETATE",
+    "categor": "Hydrocortisone Acetate",
+    "price": 15,
+    "img": "http://dummyimage.com/188x100.png/dddddd/000000"
+  }, {
+    "id": 88,
+    "name": "MENTHOL",
+    "categor": "CVS Vanishing Scent Muscle Rub",
+    "price": 23,
+    "img": "http://dummyimage.com/173x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 89,
+    "name": "difenoxin hydrochloride",
+    "categor": "Motofen",
+    "price": 30,
+    "img": "http://dummyimage.com/223x100.png/ff4444/ffffff"
+  }, {
+    "id": 90,
+    "name": "levothyroxine sodium",
+    "categor": "Levothyroxine Sodium",
+    "price": 83,
+    "img": "http://dummyimage.com/147x100.png/cc0000/ffffff"
+  }, {
+    "id": 91,
+    "name": "Octinoxate, Oxybenzone, and Titanium Dioxide",
+    "categor": "ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20",
+    "price": 13,
+    "img": "http://dummyimage.com/113x100.png/ff4444/ffffff"
+  }, {
+    "id": 92,
+    "name": "lamotrigine",
+    "categor": "LAMICTAL",
+    "price": 29,
+    "img": "http://dummyimage.com/218x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 93,
+    "name": "romiplostim",
+    "categor": "Nplate",
+    "price": 79,
+    "img": "http://dummyimage.com/153x100.png/ff4444/ffffff"
+  }, {
+    "id": 94,
+    "name": "HUMAN IMMUNOGLOBULIN G",
+    "categor": "Hizentra",
+    "price": 23,
+    "img": "http://dummyimage.com/144x100.png/ff4444/ffffff"
+  }, {
+    "id": 95,
+    "name": "providone iodine",
+    "categor": "Provodine",
+    "price": 43,
+    "img": "http://dummyimage.com/111x100.png/cc0000/ffffff"
+  }, {
+    "id": 96,
+    "name": "Gemfibrozil",
+    "categor": "Gemfibrozil",
+    "price": 81,
+    "img": "http://dummyimage.com/229x100.png/ff4444/ffffff"
+  }, {
+    "id": 97,
+    "name": "Metolazone",
+    "categor": "Metolazone",
+    "price": 75,
+    "img": "http://dummyimage.com/108x100.png/cc0000/ffffff"
+  }, {
+    "id": 98,
+    "name": "Pneumococcal 7-valent",
+    "categor": "Prevnar",
+    "price": 21,
+    "img": "http://dummyimage.com/245x100.png/ff4444/ffffff"
+  }, {
+    "id": 99,
+    "name": "Spasms Weakness",
+    "categor": "NHS Spasms Weakness",
+    "price": 3,
+    "img": "http://dummyimage.com/111x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 100,
+    "name": "Promethazine Hydrochloride",
+    "categor": "Promethazine Hydrochloride",
+    "price": 73,
+    "img": "http://dummyimage.com/143x100.png/dddddd/000000"
+  }]

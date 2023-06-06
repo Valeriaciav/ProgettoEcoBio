@@ -1,0 +1,330 @@
+[
+    {
+        "id":1,
+        "name": "Crema notte viso",
+        "category": "Cura del viso",
+        "price": "10.50"
+    },
+
+    {
+        "id": 2,
+        "name": "Crema idratante corpo",
+        "category": "Cura del corpo",
+        "price": "8.50"
+    },
+
+    {
+        "id": 3,
+        "name": "Shampo fortificante aloe vera",
+        "category": "Cura dei capelli",
+        "price": "6.50"
+    },
+
+    {
+        "id": 4,
+        "name": "Spazzola in bambù",
+        "category": "Accessori",
+        "price": "5.50"
+    },
+
+    {
+        "id": 5,
+        "name": "Detersivo pavimenti",
+        "category": "Igiene della casa",
+        "price": "10.42"
+    },
+
+    {
+        "id": 6,
+        "name": "Igienizzante bagno",
+        "category": "Igiene del bagno",
+        "price":"4.90"
+    },
+
+    {
+        "id": 7,
+        "name": "Biotina",
+        "category": "Integratori",
+        "price":"30.45"
+    },
+
+    {
+        "id": 8,
+        "name": "Mascara black",
+        "category": "Cosmetici",
+        "price": "11.60"
+    },
+
+    {
+        "id": 9,
+        "name": "Crema viso giorno",
+        "category": "Cura del viso",
+        "price": "9.50"
+    },
+
+    {
+        "id": 10,
+        "name": "Crema satificante corpo",
+        "category": "Cura del corpo",
+        "price": "8.50"
+    },
+
+    {
+        "id": 11,
+        "name": "Shampoo riequilibrante melograno",
+        "category": "Cura dei capelli",
+        "price": "12.50"
+    },
+
+    {
+        "id": 12,
+        "name": "Detergente piatti",
+        "category": "Igiene della casa",
+        "price": "4.80"
+    },
+
+    {
+        "id": 13,
+        "name": "Sgrassatore naturale",
+        "category": "Igiene della casa",
+        "price": "5.23"
+    },
+
+    {
+        "id": 14,
+        "name": "Matita occhi",
+        "category": "Cosmetici",
+        "price": "7.65"
+    },
+
+    {
+        "id": 15,
+        "name": "Vitamina C",
+        "category": "Integratori",
+        "price": "25.50"
+    },
+
+    {
+        "id": 16,
+        "name": "Matita labbra",
+        "category": "Cosmetici",
+        "price": "10.80"
+    },
+
+    {
+        "id": 17,
+        "name": "Aloe vera siero",
+        "category": "Cura del viso",
+        "price": "8.90"
+    },
+
+    {
+        "id": 18,
+        "name": "Olio di mandorle puro",
+        "category": "Cura del corpo",
+        "price": "6.90"
+    },
+    
+    {
+        "id": 19,
+        "name": "Maschera per capelli sfibrati",
+        "category": "Cura dei capelli",
+        "price": "12.50"
+    },
+
+    {
+        "id": 21,
+        "name": "Igineizzante pavimenti",
+        "category": "Igiene della casa",
+        "price": "4.30"
+    },
+
+    {
+        "id": 22,
+        "name": "Detergente vetri",
+        "category": "Igiene del bagno",
+        "price": "5.50"
+    },
+
+    {
+        "id": 23,
+        "name": "Probiotici",
+        "category": "Integratori",
+        "price": "24.50"
+    },
+
+    {
+        "id": 24,
+        "name": "Fondotinta",
+        "category": "Cosmetici",
+        "price": "9.93"
+    },
+
+    {
+        "id": 25,
+        "name": "Acido ialuronico",
+        "category": "Cura del viso",
+        "price": "9.90"
+    },
+    
+    {
+        "id": 26,
+        "name": "Scrub corpo",
+        "category": "Cura del corpo",
+        "price": "5.80"
+    },
+
+    {
+        "id": 27,
+        "name": "Hennè castano",
+        "category": "Cura dei capelli",
+        "price": "7.60"
+    },
+
+    {
+        "id": 28,
+        "name": "Hennè biondo",
+        "category": "Cura dei capelli",
+        "price": "7.60"
+    },
+
+    {
+        "id": 29,
+        "name": "Hennè castano scuro",
+        "category": "Cura dei capelli",
+        "price": "7.60"
+    },
+
+    {
+        "id": 30,
+        "name": "Hennè mogano",
+        "category": "Cura dei capelli",
+        "price": "6.50"
+    },
+
+    {
+        "id": 31,
+        "name": "Collagene",
+        "category": "Integratori",
+        "price": "23.50"
+    },
+
+    {
+        "id": 32,
+        "name": "Terra",
+        "category": "Cosmetici",
+        "price": "6.90"
+    },
+
+    {
+        "id": 33,
+        "name": "Crema anti-age",
+        "category": "Cura del viso",
+        "price": "8.80"
+    },
+
+    {
+        "id": 34,
+        "name": "Crema mani",
+        "category": "Cura del corpo",
+        "price": "7.80"
+    },
+
+    {
+        "id": 35,
+        "name": "Balsamo Aloe vera",
+        "category": "Cura dei capelli",
+        "price": "5.80"
+    },
+
+    {
+        "id": 37,
+        "name": "Profumatore",
+        "category": "Igiene della casa",
+        "price": "20.90"
+    },
+
+    {
+        "id": 38,
+        "name": "Disincrostante wc",
+        "category": "Igiene del bagno",
+        "price": "4.70"
+    },
+
+    {
+        "id": 39,
+        "name": "Semi",
+        "category": "Integratori",
+        "price": "4.40"
+    },
+
+    {
+        "id": 40,
+        "name": "Rossetto matt",
+        "category": "Cosmetici",
+        "price": "8.70"
+    },
+
+    {
+        "id": 41,
+        "name": "Scrub viso",
+        "category": "Cura del viso",
+        "price": "5.50"
+    },
+
+    {
+        "id": 42,
+        "name": "Crema piedi aloe vera",
+        "category": "Cura del corpo",
+        "price": "6.40"
+    },
+
+    {
+        "id": 43,
+        "name": "Machera per capelli aloe vera",
+        "category": "Cura dei capelli",
+        "price": "11.70"
+    },
+
+    {
+        "id": 44,
+        "name": "Cipria",
+        "category": "Cosmetici",
+        "price": "11.50"
+    },
+
+    {
+        "id": 45,
+        "name": "Primer viso",
+        "category": "Cosmetici",
+        "price": "8.90"
+    },
+
+    {
+        "id": 46,
+        "name": "Blush",
+        "category": "Cosmetici",
+        "price": "14.60"
+    },
+
+    {
+        "id": 47,
+        "name": "Bagnoschiuma idratante",
+        "category": "Cura del corpo",
+        "price": "6.70"
+    },
+
+    {
+        "id": 48,
+        "name": "Matita sopraciglia",
+        "category": "Cosmetici",
+        "price": "13.60"
+    },
+
+    {
+        "id": 49,
+        "name": "Detergente viso",
+        "category": "Cura del viso",
+        "price": "5.70"
+    }
+]
