@@ -113,7 +113,7 @@ fetch('./annunciii.json').then( (response)=>response.json() ).then((data)=> {
 
         array.forEach((element, i)=>{
             let div = document.createElement('div');
-            div.classList.add('col-12', 'col-md-3', 'my-5');
+            div.classList.add('col-12', 'col-md-3', 'me-0', 'pe-0');
             div.innerHTML = `
                      <div class="announcement-card text-center p-3">
 

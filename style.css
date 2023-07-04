@@ -112,7 +112,7 @@ h1, h2, h3{
 
 /* sezione AOS */
 .imgS{
-    height: 60%;
+    height: 400px;
 }
 
 .increment-numbers{
@@ -190,8 +190,8 @@ h1, h2, h3{
 .announcement-card{
 
     min-height: 300px;
-    border:2px solid var(--secondary);
-    border-radius: 20px;
+    /* border:2px solid var(--secondary);
+    border-radius: 20px; */
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
